@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @MirianQuispe
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">¡Hola 👋, soy Mirian :information_desk_person:!</h1>
+<h3 align="center">Full stack Web Developer 💻</h3>
+
+- Soy estudiante avanzada de la Licenciatura en Análisis de Sistemas en la Universidad Nacional de Salta, actualmente estoy realizando mi tesis de grado.
+
+- 🌱 Actualmente estoy aprendiendo sobre Testing QA, Microservicios en Java y Angular.
+
+<h3 align="left">Lenguajes:</h3>
+
+![](https://img.shields.io/badge/-HTML-orange) ![](https://img.shields.io/badge/-CSS-%23346beb) ![](https://img.shields.io/badge/-Javascript-yellow) ![](https://img.shields.io/badge/-Java-red) 
+
+<h3 align="left">Herramientas y Frameworks:</h3>
+
+![](https://img.shields.io/badge/-Bootstrap-%238649d6) ![](https://img.shields.io/badge/-Angular-red)  ![](https://img.shields.io/badge/-SpringBoot-green) ![](https://img.shields.io/badge/-heroku-%2349cade)  ![](https://img.shields.io/badge/-Git-%23ff7b2e) ![](https://img.shields.io/badge/-GitHub-black)  ![](https://img.shields.io/badge/-Visual%20Studio%20Code-blue)
+
+- Si te interesa y quieres saber un poco más sobre mi, contacta conmigo 📫 quispemiriamaldana@gmail.com
+- También puedes encontrarme en  LinkedIn [<img src='https://api.iconify.design/logos/linkedin-icon.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/mirian-quispe/)
 
 <!---
 MirianQuispe/MirianQuispe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +37,6 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m recently graduated from MindHub web development career as full stack developer
 
 - 📫 How to reach me **arioca181@gmail.com**
-
 
 
 <br>
