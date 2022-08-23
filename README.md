@@ -1,20 +1,24 @@
 <h1 align="center">¡Hola 👋, soy Mirian :information_desk_person:!</h1>
 <h3 align="center">Full stack Web Developer 💻</h3>
 
-- Soy estudiante avanzada de la Licenciatura en Análisis de Sistemas en la Universidad Nacional de Salta, actualmente estoy realizando mi tesis de grado.
+- Soy estudiante avanzada de la Licenciatura en Análisis de Sistemas de la Universidad Nacional de Salta, actualmente estoy realizando mi tesis de grado.
 
-- 🌱 Actualmente estoy aprendiendo sobre Testing QA, Microservicios en Java y Angular.
+- Estoy aprendiendo sobre Microservicios en Java y Angular e incursionando en Testing QA.
 
 <h3 align="left">Lenguajes:</h3>
 
-![](https://img.shields.io/badge/-HTML-orange) ![](https://img.shields.io/badge/-CSS-%23346beb) ![](https://img.shields.io/badge/-Javascript-yellow) ![](https://img.shields.io/badge/-Java-red) 
+![](https://img.shields.io/badge/-HTML-orange) ![](https://img.shields.io/badge/-CSS-%23346beb) ![](https://img.shields.io/badge/-Javascript-yellow) ![](https://img.shields.io/badge/-Java-red) ![](https://img.shields.io/badge/-PHP-black) ![](https://img.shields.io/badge/-SQL-green) 
 
 <h3 align="left">Herramientas y Frameworks:</h3>
 
-![](https://img.shields.io/badge/-Bootstrap-%238649d6) ![](https://img.shields.io/badge/-Angular-red)  ![](https://img.shields.io/badge/-SpringBoot-green) ![](https://img.shields.io/badge/-heroku-%2349cade)  ![](https://img.shields.io/badge/-Git-%23ff7b2e) ![](https://img.shields.io/badge/-GitHub-black)  ![](https://img.shields.io/badge/-Visual%20Studio%20Code-blue)
+![](https://img.shields.io/badge/-Bootstrap-%238649d6) ![](https://img.shields.io/badge/-Angular-red)  ![](https://img.shields.io/badge/-SpringBoot-green) ![](https://img.shields.io/badge/-Laravel-yellow) ![](https://img.shields.io/badge/-heroku-%2349cade) ![](https://img.shields.io/badge/-Git-%23ff7b2e) ![](https://img.shields.io/badge/-GitHub-black) ![](https://img.shields.io/badge/-Visual%20Studio%20Code-blue) ![](https://img.shields.io/badge/-Postman-orange)
+
+<h3 align="left">Base de Datos:</h3>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+<br>
 
 - Si te interesa y quieres saber un poco más sobre mi, contacta conmigo 📫 quispemiriamaldana@gmail.com
-- También puedes encontrarme en  LinkedIn [<img src='https://api.iconify.design/logos/linkedin-icon.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/mirian-quispe/)
+- También puedes encontrarme en LinkedIn [<img src='https://api.iconify.design/logos/linkedin-icon.svg' alt='linkedin' height='15'>](https://www.linkedin.com/in/mirian-quispe/)
 
 <!---
 MirianQuispe/MirianQuispe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
